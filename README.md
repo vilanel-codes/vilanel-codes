@@ -1,6 +1,6 @@
 <h1> Hey👋 This is Aradhna Abraham </h1>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vilanel-codes&label=Profile%20views&color=0e75b6&style=flat" alt="samarth1301" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vilanel-codes&label=Profile%20views&color=0e75b6&style=flat" alt="samarth1301" /> </p>
 
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -14,7 +14,7 @@
 <!-----Contribution figures------>
 
 ### Stats 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yenper&theme=dark" alt="HrugVed" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vilanel-codes&theme=dark" alt="HrugVed" />
  
 ### Languages and Tools
 <p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>

@@ -1,6 +1,6 @@
 <h1> Hey👋 This is Aradhna Abraham </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vilanel-codes&label=Profile%20views&color=0e75b6&style=flat" alt="samarth1301" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vilanel-codes&label=Profile%20views&color=0e75b6&style=flat" alt="samarth1301" /> </p> -->
 
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">

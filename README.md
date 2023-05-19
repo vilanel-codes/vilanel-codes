@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vilanel-codes&label=Profile%20views&color=0e75b6&style=flat" alt="samarth1301" /> </p>
 
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<!-- <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FF9595&size=20&lines=Good+to+see+you+here!;Welcome+to+my+profile" />
-</a>
+</a> -->
 
 - 👀 I’m currently learning Web Development, DSA and C++<br/>
 - 🌱 I'm exploring new technologies and brushing up my existing skills <br/>
